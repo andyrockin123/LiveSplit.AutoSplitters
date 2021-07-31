@@ -2588,6 +2588,8 @@
             <Game>Amnesia: Justine</Game>
             <Game>Amnesia: TDD</Game>
             <Game>Amnesia</Game>
+	    <Game>Penumbra: Necrologue</Game>
+	    <Game>Penumbra: Twilight of the Archaic</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/PrototypeAlpha/AmnesiaASL/master/AmnesiaTDD.asl</URL>
